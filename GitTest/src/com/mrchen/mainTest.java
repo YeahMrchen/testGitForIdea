@@ -11,4 +11,9 @@ public class mainTest {
     public void printArray(){
         System.out.println("array");
     }
+
+
+    public void printTable(){
+        System.out.println("table");
+    }
 }
